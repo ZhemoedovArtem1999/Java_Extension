@@ -1,0 +1,4 @@
+aaa bbb ccc 2002-03-22 5899855 F
+aaa bbb ccc 2002-03-22 555 F
+aaa aaa a 2000-02-22 852258 M
+aaa fdh fjty 20.03.1899 54515 M
